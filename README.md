@@ -4,7 +4,8 @@
 
 An Excel-based E-Commerce Analytics Dashboard designed to analyze sales performance, orders, customers, payment methods, delivery status, and customer reviews. The project transforms raw data into meaningful insights through KPI calculations, PivotTables, and interactive visualizations.
 
-<img width="1311" height="743" alt="image_ecommerece_dashboard" src="https://github.com/user-attachments/assets/9158ab84-709b-4f06-8709-4c37062f225c" />
+<img width="1289" height="743" alt="E-Commerce_Dashbaord_Image" src="https://github.com/user-attachments/assets/7905d3f7-2503-4065-8df8-ecafd39c3ea3" />
+
 
 
 ## 🎯 Project Objectives
